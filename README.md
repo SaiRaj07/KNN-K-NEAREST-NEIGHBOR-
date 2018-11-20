@@ -1,5 +1,4 @@
 # KNN-K-NEAREST-NEIGHBOR-
-
 Implemeneted the KNN Algorithm for Letter Recognition Task
 
 
